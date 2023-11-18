@@ -29,5 +29,15 @@ A repo to learn and document how to do process injection.
 22. https://www.elastic.co/blog/process-ghosting-a-new-executable-image-tampering-attack
 23. https://github.com/hasherezade/process_ghosting
 24. https://www.youtube.com/@zodiacon/videos
-    1.  
+25. Portable Executable Version 2
+    1.  https://github.com/zodiacon/PEExplorerV2
+    2.  https://github.com/zodiacon/PEExplorerV2/releases
+26. https://www.elastic.co/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process
+27. https://dev.to/wireless90/stealthy-code-injection-in-a-running-net-process-i5c
+28. https://gurhanpolat.medium.com/injecting-net-assembly-into-net-application-1fc2c9d3c35e
+    1.  https://github.com/adaskar/InjectNetDLL
+29. https://github.com/tasox/CSharp_Process_Injection
+    1.  https://github.com/x64dbg/x64dbg
+    2.  https://github.com/trustedsec/SysmonCommunityGuide/blob/master/chapters/create-remote-thread.md
+    3.  
 

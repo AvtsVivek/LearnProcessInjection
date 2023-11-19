@@ -1,6 +1,10 @@
 # LearnProcessInjection
 A repo to learn and document how to do process injection.  
 
+## Tools
+1. https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/
+2. 
+
 ## References
 1. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/ProcessHollowing
 2. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/DotNetQueueUserAPCInjectionOnExit
@@ -39,5 +43,6 @@ A repo to learn and document how to do process injection.
 29. https://github.com/tasox/CSharp_Process_Injection
     1.  https://github.com/x64dbg/x64dbg
     2.  https://github.com/trustedsec/SysmonCommunityGuide/blob/master/chapters/create-remote-thread.md
-    3.  
+30. https://www.codeproject.com/Articles/670373/Csharp-Read-Write-Another-Process-Memory
+    1.  
 

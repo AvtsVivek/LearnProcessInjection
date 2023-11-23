@@ -44,5 +44,10 @@ A repo to learn and document how to do process injection.
     1.  https://github.com/x64dbg/x64dbg
     2.  https://github.com/trustedsec/SysmonCommunityGuide/blob/master/chapters/create-remote-thread.md
 30. https://www.codeproject.com/Articles/670373/Csharp-Read-Write-Another-Process-Memory
-    1.  
+    1.  asdf
+31. Windbg
+    1.  [Win Dbg step by step](https://www.makeuseof.com/windbg-windows-10-guide/)
+    2.  [Win Dbg getting started](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg)
+    3.  
+    4.  
 

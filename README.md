@@ -6,20 +6,21 @@ A repo to learn and document how to do process injection.
 2. 
 
 ## References
-1. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/ProcessHollowing
-2. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/DotNetQueueUserAPCInjectionOnExit
-3. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/DllHijacking
-4. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/.NET%20Startup%20Hooks
-5. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/.Net%20Insecure%20Deserialization%20in%20EventViewer
-6. https://dev.to/wireless90/process-injection-process-hollowing-52m1
-7. https://github.com/wireless90/ProcessInjector.NET/
-8. Advanced Process Injection Techniques
+1. https://github.com/AvtsVivek/WindowsProcessInjectectionCourse
+2. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/ProcessHollowing
+3. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/DotNetQueueUserAPCInjectionOnExit
+4. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/DllHijacking
+5. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/.NET%20Startup%20Hooks
+6. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/.Net%20Insecure%20Deserialization%20in%20EventViewer
+7. https://dev.to/wireless90/process-injection-process-hollowing-52m1
+8. https://github.com/wireless90/ProcessInjector.NET/
+9. Advanced Process Injection Techniques
    1. https://www.youtube.com/watch?v=pgaGpH2dYFc
    2. https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop
-9. Process Hacker
+10. Process Hacker
    1. https://processhacker.sourceforge.io/index.php
    2. https://github.com/winsiderss/systeminformer/releases
-10. https://www.ired.team/offensive-security/code-injection-process-injection/apc-queue-code-injection
+11. https://www.ired.team/offensive-security/code-injection-process-injection/apc-queue-code-injection
 12. https://easyhook.github.io/tutorials/remotefilemonitor.html
 13. https://github.com/EasyHook/EasyHook-Tutorials/tree/master/Managed/RemoteFileMonitor
 14. https://github.com/EasyHook

@@ -6,6 +6,22 @@ A repo to learn and document how to do process injection.
 2. 
 
 ## References
+
+1. Virtual Memrory you tube series. 
+   1. https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&index=1
+2. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/ProcessHollowing
+3. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/DotNetQueueUserAPCInjectionOnExit
+4. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/DllHijacking
+5. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/.NET%20Startup%20Hooks
+6. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/.Net%20Insecure%20Deserialization%20in%20EventViewer
+7. https://dev.to/wireless90/process-injection-process-hollowing-52m1
+8. https://github.com/wireless90/ProcessInjector.NET/
+9.  Advanced Process Injection Techniques
+   1. https://www.youtube.com/watch?v=pgaGpH2dYFc
+   2. https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop
+10. Process Hacker
+
+=======
 1. https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&index=1
 2. https://github.com/AvtsVivek/WindowsProcessInjectectionCourse
 3. https://github.com/wireless90/ProcessInjector.NET/tree/main/ProcessInjector/ProcessHollowing
@@ -50,6 +66,8 @@ A repo to learn and document how to do process injection.
 31. Windbg
     1.  [Win Dbg step by step](https://www.makeuseof.com/windbg-windows-10-guide/)
     2.  [Win Dbg getting started](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg)
-    3.  
-    4.  
+    3.  [Hacking with Windbg - Part 1 (Notepad)](https://www.codeproject.com/Articles/1276860/Hacking-with-Windbg-Part-1-Notepad)
+    4.  [Hacking with Windbg - Part 2 (Minesweeper)](https://www.codeproject.com/Articles/5361560/Hacking-with-Windbg-Part-2-Minesweeper)
+    5.  [Demo of Using: WinDbg - EPROCESS and Procmon - Notepad](https://www.youtube.com/watch?v=L0hmlPEsf_Y)
+    6.  
 
